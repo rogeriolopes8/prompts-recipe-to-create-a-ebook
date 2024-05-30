@@ -22,7 +22,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de cigano, o ebookk é do nicho de magia e o subnicho é iniciante, o título deve ser épico e curto.
+|  título  | Crie um título de um ebook sobre o tema de cigano, o ebook é do nicho de magia e o subnicho é iniciante, o título deve ser épico e curto.
 |
 | conteúdo | Faça um texto para ebook , com foco em Cigano, listando coisas sobre tatô, banhos, magias ciganas {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, sempre deixe um título sugestivo por tópico |
 
